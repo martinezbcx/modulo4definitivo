@@ -1,0 +1,96 @@
+
+.jumbotron  {
+    background-color:rgb(113, 207, 51);
+    color: black;
+    margin-top: 50px;
+}
+
+footer {
+
+    padding: 10px 10px 0 10px;
+    background-color: rgb(97, 97, 11);
+        margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.card-hotel {
+    flex: 1 200px;
+    /*padding: 2px 5px;*/
+    padding: 2px 0px 0px;
+    margin-top: 10px;
+}
+
+.bt-reserva {
+    width: 100px;
+
+    width: 100px;
+}
+
+
+.footer-addres-icon {
+    
+}
+
+
+nav.navbar {
+    background-color: #68a83c;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*
+
+.footer{
+    background-color: #07461f;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+
+
+
+
+
+
+.submit{
+	color: black;
+}
+
+
+
+body {
+    background-color:rgb(16, 58, 7);
+
+}
+
+
+
+  
+  #imagen{
+      position: absolute;
+      width: 100px;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin: auto;
+  }
+
+
+
+
+
+  h1 {
+
+    color: rgb(82, 70, 4);
+    margin-left: 20px;
+}
